@@ -1,0 +1,16 @@
+[ODBC]
+DRIVER=Microsoft Paradox Driver (*.db )
+UID=admin
+UserCommitSync=Yes
+Threads=3
+SafeTransactions=0
+ParadoxUserName=admin
+ParadoxNetStyle=3.x
+ParadoxNetPath=C:\Windows\system32
+PageTimeout=5
+MaxScanRows=8
+MaxBufferSize=2048
+FIL=Paradox 3.X
+DriverId=26
+DefaultDir=C:\Users\okwesi\Desktop\POS SYSTEM\bin\Debug\databases
+CollatingSequence=ASCII
